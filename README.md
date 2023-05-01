@@ -1,4 +1,4 @@
-PokeAPI construida com React
+Pokedex construida PokeAPI e React.
 
 ![PokeApi](https://user-images.githubusercontent.com/85197053/235383071-918b22f2-8987-42fb-b23b-271dba480ff7.PNG)
 
