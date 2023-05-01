@@ -1,5 +1,7 @@
 PokeAPI construida com React
 
+![PokeApi](https://user-images.githubusercontent.com/85197053/235383071-918b22f2-8987-42fb-b23b-271dba480ff7.PNG)
+
 # Iniciar o App
 
 1. Para rodar o aplicativo é necessario rodar os seguintes comandos:
